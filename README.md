@@ -13,6 +13,7 @@ Oracle: TOO LOW
 ```
 
 #How to compile the program #
-```Terminal
+```
+Terminal
 user$ make
 ```
