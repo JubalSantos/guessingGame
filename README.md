@@ -18,4 +18,6 @@ Oracle: TOO LOW
 ```
 Terminal
 user$ make
+user$ ./oracle  //this is to run oracle only
+user$ ./player  //this is to run player only
 ```
